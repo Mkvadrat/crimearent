@@ -1,0 +1,1 @@
+<?php Yii::app()->controller->renderPartial('//site/slider',array('slider_position'=>ApartmentBanner::BANNER_RIGHT)); ?>
